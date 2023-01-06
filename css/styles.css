@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    font-family: "Merr1weather", serif;
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 400%;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 125%;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Sacramento", cursive;
+    font-size: 200%;
+}
+
+hr {
+    border: dotted #1A120B 6px;
+    border-bottom: none; 
+    width: 5%;
+}
+
+a {
+    font-family: "Montserrat", sans-serif;
+}
+
+.Top {
+padding-top: 50px;
+margin: 0 auto 200px;
+width: 50%;
+}
+
+.I1 {
+    width: 75%;
+    border-radius: 25px;
+}
+
+
+.Middle {
+    margin: 0 50px;
+    }
+
+.M1 {
+   margin-bottom: 200px;
+}   
+
+.M2 {
+   text-align: left;
+   width: 50%;
+   margin: 200px auto 200px auto;
+}
+
+.M2_1 {
+    text-align: left;
+    margin-bottom: 150px; 
+ }
+
+ .M2_2 {
+    text-align: left;
+    margin-bottom: 75px; 
+ }
+
+.I2_1 {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+
+.I2_2 {
+    width: 25%;
+    float: right;
+    margin-left: 15px;
+}
+
+.H1 {
+    margin: 0 auto 20px auto;
+}
+
+.Bottom {
+    margin: 0 auto;
+    width: 50%;
+    }
